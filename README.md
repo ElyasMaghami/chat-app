@@ -10,9 +10,6 @@ A real-time chat application built with Flutter and Firebase. This application a
 - Push notifications: Users receive push notifications for new messages using Firebase Cloud Messaging.
 - Cloud storage: Images shared in the chat are stored securely in Firebase Cloud Storage.
 
-## Screenshots
-
-[Include screenshots or GIFs of your application here]
 
 ## Getting Started
 
